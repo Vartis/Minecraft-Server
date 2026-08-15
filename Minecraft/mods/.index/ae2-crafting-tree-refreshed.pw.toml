@@ -1,0 +1,17 @@
+filename = 'ae2ct-1.0.1.jar'
+name = 'AE2: Crafting Tree Refreshed'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1'
+
+[download]
+hash = 'bac5d0a03ae6c34de1b2db0829e0aeb5f09465945c593b7ebfd0ceaf14822c8653303824a53f5bee7060371178009fffdda12336e5765c5865385344486fed42'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/a1RwDz90/versions/35O4yt0D/ae2ct-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'a1RwDz90'
+version = '35O4yt0D'

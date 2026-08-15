@@ -1,0 +1,17 @@
+filename = 'emilink-1.1.13.jar'
+name = 'EMILink'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'emilink-1.1.13.jar'
+
+[download]
+hash = '576c90729ad35a67f07d57f48eb7b4f920d47a3d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8443320
+project-id = 1542052

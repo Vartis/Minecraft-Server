@@ -1,0 +1,32 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:bits_n_bobs:diorite_tiles",
+    "item:minecraft:stone",
+    "item:modern_industrialization:antimony_ingot",
+    "item:modern_industrialization:antimony_ore",
+    "item:modern_industrialization:raw_antimony",
+    "item:mekanism:ingot_lead",
+    "item:minecraft:breeze_rod",
+    "item:createbigcannons:congealed_nitro",
+    "item:createbigcannons:hardened_nitro",
+    "item:createbigcannons:nitropowder",
+    "item:createbigcannons:log_cannon_end",
+    "item:createbigcannons:steel_ingot",
+    "item:createbigcannons:steel_scrap",
+    "item:minecraft:netherite_scrap",
+    "item:minecraft:netherite_ingot",
+    "item:minecraft:netherite_helmet",
+    "item:minecraft:heavy_core",
+    "item:minecraft:lightning_rod",
+    "item:minecraft:mace"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

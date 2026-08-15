@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "bloodking450",
+      "uniqueId": "31e6895d-7ea8-49d5-af29-b5a6bcd42a66"
+    },
+    "time": 1786763897066,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/6GrwwZoCK3"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "bloodking450",
+      "uniqueId": "31e6895d-7ea8-49d5-af29-b5a6bcd42a66"
+    },
+    "time": 1786762979755,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ATEO19n2aQ"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "bloodking450",
+      "uniqueId": "31e6895d-7ea8-49d5-af29-b5a6bcd42a66"
+    },
+    "time": 1786762498601,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/HF1YKVprRT"
+    }
+  }
+]

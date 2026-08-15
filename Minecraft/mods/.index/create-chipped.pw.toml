@@ -1,0 +1,17 @@
+filename = 'create_chipped-1.2.0-neoforge-1.21.1.jar'
+name = 'Create:  Chipped'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'create_chipped-1.1.0-neoforge-1.21.1.jar'
+
+[download]
+hash = '37e4d3ed2f9e291d6cd688ffc40b8b404672cf72'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7985040
+project-id = 1321045
